@@ -1,0 +1,17 @@
+# ninja log v5
+130	301	7322205289674229	sturct_test.exe	a314c8882a90b49d
+1	206	7348042184705742	build.ninja	99dca71d86ee2027
+122	282	7316929940921295	reverse.exe	3d0423038337fd59
+184	384	7333135633378995	Data_structure.exe	7bf4befe3a47bcee
+2788	4573	7316056631952614	operate.exe	380c459072ed72bb
+126	296	7325315628812514	type.exe	5a012bd23786df47
+139	316	7333136192162753	ex_10.exe	58de6cf459329bd6
+172	358	7322825151850211	ex_12.exe	84ab29c14f62b37
+2	125	7325315627150076	CMakeFiles/type.dir/other/prictice/one_day/type.cpp.obj	4f96533ea9084c4
+3	183	7333135631407298	CMakeFiles/Data_structure.dir/chapter_two/linear_list/Initial_insert.cpp.obj	54ac1b1cc4c52810
+2	138	7333136190438689	CMakeFiles/ex_10.dir/other/test/ex_10.cpp.obj	2fdbaf798a64bb90
+2	121	7338265526667599	CMakeFiles/pra.dir/other/prictice/three_day/pra.cpp.obj	95dd3f43e84cd429
+122	331	7338265528703247	pra.exe	dd350986bc330724
+4	137	7344181874895153	CMakeFiles/chapter_five.dir/chapter_five/tree.cpp.obj	d7f1e00d3908aee3
+29	221	7344180416454705	CMakeFiles/chapter_five.dir/chapter_five/three_queue.cpp.obj	4f20e5910b0b650d
+138	293	7344181876412398	chapter_five.exe	4f3535bb059a39fa
